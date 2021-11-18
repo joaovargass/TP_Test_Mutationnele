@@ -76,6 +76,3 @@ def test_intToBin():
     assert intToBin(255) == 11111111
     assert intToBin(19) == 10011
 
-print(sqRoot(16))
-print("AAA")
-print(type(sqRoot(16)))
